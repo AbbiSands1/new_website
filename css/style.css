@@ -1,0 +1,13 @@
+
+footer {
+width:90%;
+	height: 1500px;
+	margin:auto; 
+	background-repeat: no-repeat;
+	background-size:cover;
+	padding-top: 150px;
+	text-align: center;
+	font-family: 'Play', sans-serif;
+	color: red;
+	font-size: 50px
+}
